@@ -1,0 +1,106 @@
+[
+  {
+    "postID": 0,
+    "title": "string",
+    "address": {
+      "addressId": 0,
+      "street": "string",
+      "city": "string",
+      "state": "string",
+      "country": "string",
+      "zipCode": 0,
+      "postID": 0
+    },
+    "propertyTypeID": 0,
+    "propertyType": {
+      "propertyTypeID": 0,
+      "name": "string"
+    },
+    "bedrooms": 0,
+    "availableFrom": "2020-10-23T02:04:50.316Z",
+    "area": "string",
+    "postedBy": "string",
+    "bathrooms": 0,
+    "expectedRent": 0,
+    "stayType": "string",
+    "deposit": 0,
+    "description": "string",
+    "isActive": true,
+    "note": "string",
+    "phoneNumber": "string",
+    "amenities": [
+      {
+        "amenityID": 0,
+        "name": "string",
+        "postID": 0
+      }
+    ],
+    "postImages": [
+      {
+        "postImageID": 0,
+        "url": "string",
+        "postID": 0
+      }
+    ]
+  },
+  {
+    "postID": 1,
+    "title": "FURNISHED BASEMENT ATTACHED WITH SHOWER ROOM & BATHROOM $800 INCLUDED ALL UTILITIES.",
+    "address": {
+      "addressId": 0,
+      "street": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "zipCode": 0,
+      "postID": 0,
+      "post": null
+    },
+    "propertyTypeID": 1,
+    "propertyType": null,
+    "bedrooms": 0,
+    "availableFrom": "0001-01-01T00:00:00",
+    "area": null,
+    "postedBy": "Arbi",
+    "bathrooms": 0,
+    "expectedRent": 800,
+    "stayType": null,
+    "deposit": 0,
+    "description": "FURNISHED ROOM\r\n                    ATTACHED BATHROOM & SHOWERROOM\r\n                    NEAR TO 117TH SHERIDAN BLVD\r\n                    15 MINS DRIVE FROM DENVER(DOWNTOWN)\r\n                    2MINS DRIVE FROM POM(PACIFIC OCEAN MARKET)ASIAN VEGETABLE SHOP\r\n                    SEPRATE FRIDGE AND MICROOVEN\r\n                    NOTE:\r\n                    PRIORITY SINGLE PERSON (MALE OR FEMALE)\r\n                    ",
+    "isActive": false,
+    "note": null,
+    "phoneNumber": "2012939644",
+    "amenities": [],
+    "postImages": []
+  },
+  {
+    "postID": 2,
+    "title": "Full Upgraded basement Available",
+    "address": {
+      "addressId": 0,
+      "street": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "zipCode": 0,
+      "postID": 0,
+      "post": null
+    },
+    "propertyTypeID": 1,
+    "propertyType": null,
+    "bedrooms": 0,
+    "availableFrom": "0001-01-01T00:00:00",
+    "area": null,
+    "postedBy": "Aakash",
+    "bathrooms": 0,
+    "expectedRent": 800,
+    "stayType": null,
+    "deposit": 0,
+    "description": "Spacious walkout basement(1000 sq ft) for rent in Gainesville, VA near Virginia Gateway\r\n                    This is a walkout basement located less than 5 mins from I-66 It has Full bath , living room and bed room with private entrance. the area has never been used before.\r\n                    Pets are NOT allowed.\r\n                    Features:\r\n                    Private Entrance\r\n                    Full kitchen \r\n                    Full bathroom \r\n                    Huge kitchen area \r\n                    Huge Separate living area \r\n                    Legal bedroom ( with openable window, big closet ) \r\n                    Extra room for storage ) \r\n                    Unlimited parking \r\n                    Free utilities ( high speed internet , TV, phone ) \r\n                    Big patio , green back yard \r\n                    And much more \r\n                    The best thing is you will enjoy with nice family ( upper level) \r\n                    And best neighbourhood . \r\n                    Very convenient location in Gainesville VA 20155\r\n                    ",
+    "isActive": false,
+    "note": null,
+    "phoneNumber": "6174606737, 5083333956",
+    "amenities": [],
+    "postImages": []
+  }
+]
